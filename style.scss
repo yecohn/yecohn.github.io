@@ -278,6 +278,13 @@ nav {
   background-color: $lightGray;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 footer {
   padding: 20px 0;
   text-align: center;
